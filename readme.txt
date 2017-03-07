@@ -10,3 +10,5 @@ forth edit content:
 	Git has a mutable index called stage.
 fifth edit content:
 	Git track changes.
+sixth edit
+	Git tracks changes of files.
