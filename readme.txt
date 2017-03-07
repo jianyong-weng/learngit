@@ -8,3 +8,5 @@ third edit content:
 	Git is free software distributed under the GPL.
 forth edit content:
 	Git has a mutable index called stage.
+fifth edit content:
+	Git track changes.
