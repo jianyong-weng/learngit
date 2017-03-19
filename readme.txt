@@ -15,4 +15,4 @@ sixth edit
 
 Creating a new branch is quick.
 
-hello £¬simple branch.
+Creating a new branch is quick and simple
