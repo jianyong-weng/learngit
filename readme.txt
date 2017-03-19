@@ -14,3 +14,5 @@ sixth edit
 	Git tracks changes of files.
 
 Creating a new branch is quick.
+
+hello £¬simple branch.
