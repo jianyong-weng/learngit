@@ -12,3 +12,5 @@ fifth edit content:
 	Git track changes.
 sixth edit
 	Git tracks changes of files.
+
+Creating a new branch is quick.
